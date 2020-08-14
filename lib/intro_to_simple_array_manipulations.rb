@@ -11,6 +11,5 @@ def using_pop(array)
 end
  
 def pop_with_args(array)
-  if array.length < 2 
-    array.pop(array[0, 1])
+  
   end
