@@ -11,4 +11,5 @@ def using_pop(array)
 end
  
 def pop_with_args(array)
-  array.each{|
+  array.collect{|array[1, 2]| array.pop(array[1,2])
+end
